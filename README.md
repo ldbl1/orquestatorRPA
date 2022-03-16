@@ -1,5 +1,11 @@
 # orquestatorRPA
 
+This project is for educational purposes only.
+Feel free to colaborate or fork the project to make it bigger/better if u want.
+I'll appreciate all collab, and want to know your opinions.
+
+This project will be updated when i have time for it or I feel inspirated. 
+
 ## Phase I
 
 * [ ] Create client listener
