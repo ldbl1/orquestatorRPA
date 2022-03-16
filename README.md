@@ -6,7 +6,7 @@ I'll appreciate all collab, and want to know your opinions.
 
 This project will be updated when i have time for it or I feel inspirated. 
 
-## Phase I
+## Phase I (Java Sockets)
 
 * [ ] Create client listener
 
@@ -16,7 +16,7 @@ This project will be updated when i have time for it or I feel inspirated.
 
 * [ ] When client restarts server must know it
 
-## Phase II
+## Phase II (Connection with Nexus and executing from there)
 
 * [ ] Create nexus repository. 
 
@@ -28,24 +28,24 @@ This project will be updated when i have time for it or I feel inspirated.
 
 * [ ] When Client finish, must send to server its state
 
-## Phase III 
+## Phase III (Deep connection between Server & Client)
 
 * [ ] Server must know always what Client is doing
 
 * [ ] Client must send always what's been executed to Server
 
-## Phase IV 
+## Phase IV (Expanding)
 
 * [ ] Server can create more than one client and manage them
 
-## Phase V
+## Phase V (Beautifying)
 
 * [ ] Server now has a GUI
 
-## Phase VI
+## Phase VI (Connecting offshore)
 
 * [ ] Server and Nexus must be in LAN but client can be anywhere
 
-## Phase VII 
+## Phase VII (Connecting beyond)
 
 * [ ] Server, Nexus and Client can be anywhere
