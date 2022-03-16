@@ -10,36 +10,36 @@
 
 * [ ] When client restarts server must know it
 
-##Phase II
+## Phase II
 
-* Create nexus repository. 
+* [ ] Create nexus repository. 
 
-* Client, Server, and Nexus repository must be in LAN
+* [ ] Client, Server, and Nexus repository must be in LAN
 
-* Server now sends nexus reference to jar to the client listening
+* [ ] Server now sends nexus reference to jar to the client listening
 
-* Client now has to get the nexus reference and try to execute
+* [ ] Client now has to get the nexus reference and try to execute
 
-* When Client finish, must send to server its state
+* [ ] When Client finish, must send to server its state
 
-##Phase III 
+## Phase III 
 
-* Server must know always what Client is doing
+* [ ] Server must know always what Client is doing
 
-* Client must send always what's been executed to Server
+* [ ] Client must send always what's been executed to Server
 
-##Phase IV 
+## Phase IV 
 
-* Server can create more than one client and manage them
+* [ ] Server can create more than one client and manage them
 
-##Phase V
+## Phase V
 
-* Server now has a GUI
+* [ ] Server now has a GUI
 
-##Phase VI
+## Phase VI
 
-* Server and Nexus must be in LAN but client can be anywhere
+* [ ] Server and Nexus must be in LAN but client can be anywhere
 
-##Phase VII 
+## Phase VII 
 
-* Server, Nexus and Client can be anywhere
+* [ ] Server, Nexus and Client can be anywhere
