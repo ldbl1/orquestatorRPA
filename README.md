@@ -51,3 +51,7 @@ This project will be updated when i have time for it or I feel inspirated.
 ## Phase VII (Connecting beyond)
 
 * [ ] Server, Nexus and Client can be anywhere
+
+## Phase VIII (Final)
+
+* [] Profit!
