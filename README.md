@@ -54,4 +54,4 @@ This project will be updated when i have time for it or I feel inspirated.
 
 ## Phase VIII (Final)
 
-* [] Profit!
+* [ ] Profit!
