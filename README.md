@@ -38,6 +38,8 @@ This project will be updated when i have time for it or I feel inspirated.
 
 * [ ] Server can create more than one client and manage them
 
+* [ ] Server has to connect to DB to manage all clients
+
 ## Phase V (Beautifying)
 
 * [ ] Server now has a GUI
@@ -49,3 +51,7 @@ This project will be updated when i have time for it or I feel inspirated.
 ## Phase VII (Connecting beyond)
 
 * [ ] Server, Nexus and Client can be anywhere
+
+## Phase VIII (Final)
+
+* [] Profit!
