@@ -8,7 +8,7 @@ import java.io.File;
  *
  */
 
-public class UtilsFile {
+public class FileUtils {
 
 	/**
 	 * This function returns true if folder has been created
