@@ -16,7 +16,7 @@ public class GenericAgent {
 	
 	private void start(int port, String serverIp) throws InterruptedException {
 		System.out.println(MSG_START);
-		listening();
+		listening(); //test
 	}
 	
 	private void stop() {
